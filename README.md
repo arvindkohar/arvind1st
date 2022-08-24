@@ -1,5 +1,5 @@
 # arvind1st
-git init
-git status
-git add .
+git init <br />
+git status <br />
+git add . <br />
 git commit -m "Initial commit"
